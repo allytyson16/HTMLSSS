@@ -1,2 +1,2 @@
 # HTMLSSS
-My first officially, publicly markup language. 
+My first officially, publicly markup language.
